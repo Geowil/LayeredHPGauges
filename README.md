@@ -1,9 +1,9 @@
 # LMPGames_LayeredHPGauges
 Version 0.5A
 
-Demo Available: Yes [LMPGames_LayeredHPGauges_Demo_V0.5A.zip](http://lmpgames.com/RMMV/Plugins/LMPGames_LayeredHPGauges_V0.5A_Demo.zip)
+Demo Available: Yes [LMPGames_LayeredHPGauges_Demo_V0.5A.zip](http://lmpgames.com/RMMV/Plugins/LMPGames_LayeredHPGauges_Demo_V0.5Azip)
 
-Project Available: Yes [LMPGames_LayeredHPGauges_Project_V0.5A.zip](http://lmpgames.com/RMMV/Plugins/LMPGames_LayeredHPGauges_V0.5A_Project.zip)
+Project Available: Yes [LMPGames_LayeredHPGauges_Project_V0.5A.zip](http://lmpgames.com/RMMV/Plugins/LMPGames_LayeredHPGauges_Project_V0.5Azip)
 
 Conflicts: None identified thus far
 
