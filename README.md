@@ -96,6 +96,7 @@ ShowLayers
 ```
 
 Layers sets the number of layers that the enemy gauge will use.
+
 ShowLayers allows you to set if the enemy will generate a gauge.  You can also leave the note box blank.  This note tag attribute is more for use when the plugin commands and scripting functions are added to allow you more control over when the guage can be displayed.
 
 
