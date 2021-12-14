@@ -20,7 +20,7 @@ Drop the plugin file into your plugins folder, add it into your plugins list in 
 
 
 ## Current Features Overview
-### Features in V1.3.5
+### Features in V0.5A
 - Unlimited Gauges
   - Create as many layers as you want, just make sure you have colors assigned for each layer.
 
