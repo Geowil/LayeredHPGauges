@@ -14,6 +14,10 @@ Terms of Use: Free non-commercially or commercially; just give credit
 ## What is this?
 Every wanted to spruce up your battle screen?  Maybe you wanted to have something different for a boss battle?  Well look no further, this plugin can do that and a bit more!
 
+## Requirements
+There are no third-party plugin requirements.
+
+It does appear, though, that this plugin requires RPG Maker MV Version 1.6.0 and higher.  It may work with lower versions, but I've had a report that it does not work in 1.5.0.
 
 ## Installation Instructions
 Drop the plugin file into your plugins folder, add it into your plugins list in your project in the editor, configure the plugin settings, set up enemy note tags.  You're Done!
